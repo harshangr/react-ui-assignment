@@ -1,0 +1,5 @@
+{
+  "name": "Vajra Monthly Report Dashboard",
+  "description": "A comprehensive healthcare asset management dashboard featuring incident reports, work order tracking, and department-wise asset status.",
+  "requestFramePermissions": []
+}
